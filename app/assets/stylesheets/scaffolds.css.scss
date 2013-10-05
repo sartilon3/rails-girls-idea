@@ -1,7 +1,7 @@
 body {
   background-color: #fff;
-  color: #0000FF;
-  font-family: verdana, arial, helvetica, sans-serif;
+  color: #993333;
+  font-family: verdana;
   font-size: 12px;
   line-height: 18px;
 }
@@ -50,8 +50,8 @@ a {
     color: #666;
   }
   &:hover {
-    color: #fff;
-    background-color: #000;
+    color: #505050;
+    background-color: none;
     text-decoration:none;
   }
 }
